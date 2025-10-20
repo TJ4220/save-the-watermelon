@@ -1,0 +1,6 @@
+melon
+water
+python
+slice
+guess
+fruit
